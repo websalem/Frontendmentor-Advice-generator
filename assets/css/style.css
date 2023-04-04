@@ -75,6 +75,10 @@ a {
   margin: auto;
 }
 
+.card button:hover {
+  box-shadow: 0 0 30px hsl(193, 38%, 86%);
+}
+
 footer {
   position: relative;
 }

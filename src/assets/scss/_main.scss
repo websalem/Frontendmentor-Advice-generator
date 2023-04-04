@@ -46,3 +46,7 @@
         margin: auto;
     }
 }
+
+.card button:hover {
+    box-shadow: 0 0 30px $Light-Cyan;
+}
